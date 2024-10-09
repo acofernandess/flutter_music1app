@@ -1,3 +1,5 @@
+![Imagem da tela desenvolvida](https://github.com/acofernandess/flutter_music1app/asset/img.png)
+
 # music1app
 
 A new Flutter project.
