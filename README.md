@@ -1,4 +1,4 @@
-![Imagem da tela desenvolvida](https://github.com/acofernandess/flutter_music1app/blob/main/img.png)
+![Imagem da tela desenvolvida](https://github.com/acofernandess/flutter_music1app/blob/main/asset/img.png)
 
 # music1app
 
